@@ -1,2 +1,0 @@
-const REACT_APP_MAPBOX_TOKEN="pk.eyJ1IjoicGFya2F3YXkxODg3IiwiYSI6ImNrN2dscTMyMzAwemYzb2xqemdsbG84NWEifQ.tV7CpwEcSCoZ_1o5y_gTSA"
-export default REACT_APP_MAPBOX_TOKEN;
